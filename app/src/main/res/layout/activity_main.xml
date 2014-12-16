@@ -10,10 +10,10 @@
 
     <TextView
         android:id="@+id/hello"
-        android:text="@string/hello_world"
+        android:text="list of card views"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="cardslist"
-        />
+        android:textAppearance="@style/TextAppearance.AppCompat.Button" />
 
 </RelativeLayout>

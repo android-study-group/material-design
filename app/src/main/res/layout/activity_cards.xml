@@ -13,7 +13,6 @@
         android:id="@+id/cards_list"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:dividerHeight="16dp"
         tools:listitem="@layout/item_card">
     </ListView>
 
